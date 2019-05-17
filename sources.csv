@@ -1,0 +1,38 @@
+ID,NAME,URI,PRIORITY,CATEGORY,TIME
+1,Debugging getting started,https://nodejs.org/en/docs/guides/getting-started-guide/,1,DEBUGGING,1
+2,Easy profiling for Node.js Applications,https://nodejs.org/en/docs/guides/simple-profiling/,1,DEBUGGING,1
+3,Flame graphs,https://nodejs.org/en/docs/guides/diagnostics-flamegraph/,1,DEBUGGING,1
+4,Dockerizing a Node.js web app,https://nodejs.org/en/docs/guides/nodejs-docker-webapp/,1,DOCKER,1
+5,Migrating to safe Buffer constructors,https://nodejs.org/en/docs/guides/buffer-constructor-deprecation/,2,BUFFERS,1
+6,Overview of Blocking vs Non-Blocking,https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/,1,EVENT_LOOP,1
+7,"The Node.js event loop, timers, and process.nextTick()",https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/,1,EVENT_LOOP,1
+8,Don't block the event loop (or the worker pool),https://nodejs.org/en/docs/guides/dont-block-the-event-loop/,1,EVENT_LOOP,1
+9,Timers in Node.js and beyond,https://nodejs.org/en/docs/guides/timers-in-node/,2,EVENT_LOOP,1
+10,Anatomy of a HTTP Transaction,https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/,1,HTTP,1
+11,Working with Different Filesystems,https://nodejs.org/en/docs/guides/working-with-different-filesystems/,1,FILESYSTEMS,1
+12,Backpressuring in Streams,https://nodejs.org/en/docs/guides/backpressuring-in-streams/,1,STREAMS,1
+13,Domains post mortem,https://nodejs.org/en/docs/guides/domain-postmortem/,3,DOMAINS,1
+14,Publishing N-API Modules,https://nodejs.org/en/docs/guides/publishing-napi-modules/,2,PACKAGES,1
+15,ABI Stability,https://nodejs.org/en/docs/guides/abi-stability/,3,BINARY,1
+16,Assertion testing,https://nodejs.org/dist/latest-v12.x/docs/api/assert.html,1,UNIT_TESTS,1
+17,HTTP API,https://nodejs.org/dist/latest-v12.x/docs/api/http.html,1,HTTP,2
+18,HTTP/2 API,https://nodejs.org/dist/latest-v12.x/docs/api/http2.html,3,HTTP,1
+19,URL API,https://nodejs.org/dist/latest-v12.x/docs/api/http2.html,2,HTTP,1
+20,HTTPS API,https://nodejs.org/dist/latest-v12.x/docs/api/https.html,1,HTTP,1
+21,Performance Hooks,https://nodejs.org/dist/latest-v12.x/docs/api/perf_hooks.html,2,DEBUGGING,1
+22,Events API documentation,https://nodejs.org/api/events.html,1,EVENTS,1
+23,Child process,https://nodejs.org/api/child_process.html,1,CHILD_PROCESSES,1
+24,Package.json,https://docs.npmjs.com/files/package.json,1,PACKAGES,1
+25,Closures,https://developer.mozilla.org/fr/docs/Web/JavaScript/Closures,1,JS,1
+26,Prototypes,https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/Prototypes_Objet,1,JS,1
+27,"var, let, const",https://medium.com/@vincent.bocquet/var-let-const-en-js-quelles-diff%C3%A9rences-b0f14caa2049,1,JS,1
+28,Crash safety using domains in Node.js,https://engineering.gosquared.com/error-handling-using-domains-node-js,1,ERROR_HANDLING,1
+29,We’re under attack! 23+ Node.js security best practices,https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d,1,SECURITY,1
+30,Error handling in Node.JS,https://www.joyent.com/node-js/production/design/errors,1,ERROR_HANDLING,1
+31,Node.js Error Handling Best Practices: Ship With Confidence,https://stackify.com/node-js-error-handling/,1,ERROR_HANDLING,1
+32,Process API documentation,https://nodejs.org/api/process.html,1,PROCESS_OS,1
+33,OS API documentation,https://nodejs.org/api/os.html,1,PROCESS_OS,1
+34,Modules API documentation,https://nodejs.org/api/modules.html,1,MODULES,1
+35,Buffers,https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8,1,BUFFERS_STREAMS,2
+36,Streams,https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93,1,BUFFERS_STREAMS,2
+37,Modules ESM,https://nodejs.org/api/esm.html,1,MODULES,1
